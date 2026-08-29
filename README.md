@@ -16,6 +16,12 @@ Análisis descriptivo de ventas por región, plataforma y género, incluyendo va
 
 [Ver proyecto](analisis-exploratorio-videojuegos/README.md)
 
+### 3. Reducción de dimensionalidad en perfiles estudiantiles
+
+Comparación de PCA y t-SNE para visualizar perfiles académicos, interpretar patrones de desempeño y evaluar PCA dentro de un flujo predictivo con Random Forest.
+
+[Ver proyecto](reduccion-dimensionalidad-estudiantes/README.md)
+
 ## Tecnologías
 
 - Python
@@ -30,4 +36,4 @@ Análisis descriptivo de ventas por región, plataforma y género, incluyendo va
 pip install -r requirements.txt
 ```
 
-Los datasets necesarios para ambos proyectos están incluidos junto con su documentación.
+Los datasets necesarios para los proyectos están incluidos junto con su documentación.
