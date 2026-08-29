@@ -16,11 +16,11 @@ Explorar las ventas de videojuegos por región, plataforma y género mediante es
 ## Estructura
 
 - `notebooks/desafio_videojuegos_EDA_Hector_Lopez.ipynb`: análisis completo.
-- `data/videojuegos.csv`: dataset requerido, no incluido todavía.
+- `data/videojuegos.csv`: dataset incluido (100 registros).
 
 ## Ejecución
 
-Coloca el archivo con el nombre `videojuegos.csv` dentro de `data/` y ejecuta el notebook desde Jupyter o Google Colab.
+El dataset ya está disponible en `data/videojuegos.csv`. Ejecuta el notebook desde Jupyter o Google Colab.
 
 ## Competencias demostradas
 
