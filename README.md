@@ -30,4 +30,4 @@ Análisis descriptivo de ventas por región, plataforma y género, incluyendo va
 pip install -r requirements.txt
 ```
 
-El dataset de videojuegos está incluido. El archivo `train.csv` de Ames Housing continúa pendiente; consulta el README del proyecto PCA.
+Los datasets necesarios para ambos proyectos están incluidos junto con su documentación.
