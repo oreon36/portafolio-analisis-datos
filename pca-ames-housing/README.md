@@ -17,11 +17,11 @@ Reducir la dimensionalidad de variables numéricas del dataset Ames Housing y an
 ## Estructura
 
 - `notebooks/analisis_componentes_PCA.ipynb`: análisis completo.
-- `data/train.csv`: dataset requerido, no incluido todavía.
+- `data/train.csv`: dataset de entrenamiento incluido (1.460 viviendas).\n- `data/data_description.txt`: diccionario de variables.
 
 ## Ejecución
 
-Coloca el archivo de Ames Housing con el nombre `train.csv` dentro de `data/` y ejecuta el notebook desde Jupyter o Google Colab.
+El dataset y su diccionario ya están disponibles en `data/`. Ejecuta el notebook desde Jupyter o Google Colab.
 
 ## Competencias demostradas
 
