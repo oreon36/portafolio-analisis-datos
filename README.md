@@ -59,6 +59,55 @@ Análisis descriptivo de ventas de videojuegos considerando regiones, plataforma
 
 ---
 
+## 💡 ¿Por qué elegí GitHub para mi portafolio?
+
+Elegí **GitHub** porque permite centralizar y presentar proyectos de datos de manera pública, ordenada y trazable. Además de almacenar código, facilita el control de versiones, la documentación de cambios y la organización de cada proyecto en repositorios independientes.
+
+Para un portafolio profesional, GitHub permite que reclutadores, docentes y otros profesionales puedan revisar directamente notebooks, datasets, documentación y evolución de los proyectos desde un único entorno.
+
+Entre las características que considero más importantes están:
+
+- Control de versiones mediante Git.
+- Historial de cambios y commits.
+- Organización del trabajo mediante repositorios.
+- Posibilidad de utilizar ramas para desarrollar cambios sin afectar la versión principal.
+- Documentación mediante archivos `README.md`.
+- Acceso público mediante enlaces directos.
+- Facilidad para compartir proyectos y colaborar con otras personas.
+
+---
+
+## ✅ Buenas prácticas aplicadas
+
+En este portafolio se aplican buenas prácticas estudiadas para el uso profesional de repositorios:
+
+- Cada proyecto cuenta con un nombre y propósito claramente identificables.
+- Los proyectos están separados en repositorios para facilitar su navegación.
+- Los archivos `README.md` describen objetivos, metodología, tecnologías, estructura y forma de ejecución.
+- Se utilizan commits con mensajes descriptivos para registrar las mejoras realizadas.
+- Se organizan notebooks y datasets de forma comprensible cuando el proyecto lo requiere.
+- Se evita incorporar dependencias innecesarias y se documentan las herramientas utilizadas.
+- Los proyectos incluyen enlaces entre el portafolio principal y sus repositorios específicos.
+- La documentación se mantiene actualizada a medida que los proyectos evolucionan.
+- Antes de incorporar cambios relevantes se revisa que la documentación y los enlaces mantengan coherencia con el contenido publicado.
+
+---
+
+## 🔄 Mejoras incorporadas al portafolio
+
+A partir de la revisión de trabajos anteriores se fortaleció la presentación del portafolio mediante:
+
+- una descripción profesional más completa;
+- un objetivo laboral claramente definido;
+- mayor visibilidad de tecnologías y herramientas;
+- descripciones más claras de cada proyecto;
+- documentación más detallada en los repositorios individuales;
+- incorporación de instrucciones de ejecución y competencias demostradas;
+- enlaces directos a LinkedIn, GitHub y proyectos destacados;
+- una estructura visual homogénea para facilitar la revisión por parte de docentes y reclutadores.
+
+---
+
 ## 📚 Actualmente aprendiendo
 
 - Machine Learning
