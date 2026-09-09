@@ -22,7 +22,7 @@ Proyecto de Deep Learning y Computer Vision con TensorFlow/Keras para clasificar
 
 [Ver proyecto](cnn-reconocimiento-digitos/README.md)
 
-Incluye la documentación, las dependencias y el [notebook de reconocimiento de dígitos](cnn-reconocimiento-digitos/notebooks/reconocimiento_digitos_cnn.ipynb). El dataset `digitos_mnist_simple.xlsx` está pendiente de incorporación.
+Incluye la documentación, las dependencias y el [notebook de reconocimiento de dígitos](cnn-reconocimiento-digitos/notebooks/reconocimiento_digitos_cnn.ipynb). Incluye también el [dataset de dígitos](cnn-reconocimiento-digitos/data/digitos_mnist_simple.xlsx).
 
 ## Tecnologías
 
