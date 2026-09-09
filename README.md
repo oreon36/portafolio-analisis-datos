@@ -1,54 +1,79 @@
-# Portafolio de análisis de datos
+# 👋 Héctor López
 
-Repositorio de proyectos desarrollados por **Héctor López** durante su formación en Data Science.
+## Data Science | Data Analytics | Business Intelligence
 
-## Proyectos
+Soy estudiante de **Data Science**, con interés en análisis de datos, Business Intelligence, Machine Learning y automatización de procesos.
 
-### 1. PCA aplicado a Ames Housing
+Mi objetivo es transformar datos en información útil que facilite la toma de decisiones y contribuya a resolver problemas reales de negocio.
 
-Reducción de dimensionalidad mediante imputación, estandarización y Análisis de Componentes Principales.
+Actualmente continúo fortaleciendo mis conocimientos en Machine Learning, Big Data, redes neuronales e Inteligencia Artificial aplicada al análisis de datos.
 
-[Ver proyecto](https://github.com/oreon36/pca-ames-housing)
+---
 
-### 2. Análisis exploratorio de videojuegos
+## 🎯 Objetivo profesional
 
-Análisis descriptivo de ventas por región, plataforma y género, incluyendo valores faltantes, distribuciones y detección de valores atípicos.
+Continuar desarrollándome profesionalmente como **Analista de Datos / BI**, aplicando mis conocimientos técnicos y mi experiencia en operaciones y control de gestión, para evolucionar progresivamente hacia Data Science.
 
-[Ver proyecto](https://github.com/oreon36/analisis-exploratorio-videojuegos)
+---
 
-### 3. Reconocimiento de dígitos manuscritos con CNN
-
-Proyecto de Deep Learning y Computer Vision con TensorFlow/Keras para clasificar dígitos del 0 al 9.
-
-[Ver proyecto](https://github.com/oreon36/cnn-reconocimiento-digitos)
-
-Incluye la documentación, las dependencias y el [notebook de reconocimiento de dígitos](cnn-reconocimiento-digitos/notebooks/reconocimiento_digitos_cnn.ipynb). Incluye también el [dataset de dígitos](cnn-reconocimiento-digitos/data/digitos_mnist_simple.xlsx).
-
-### 4. Modelo crediticio con Machine Learning
-
-Clasificación para aprobación de créditos con Python, Scikit-learn, Pipeline y validación cruzada.
-
-[Ver proyecto](https://github.com/oreon36/modelo-crediticio-machine-learning)
-
-## Tecnologías
+## 🛠️ Tecnologías y herramientas
 
 - Python
+- SQL
+- Power BI
 - Pandas y NumPy
-- Matplotlib
 - Scikit-learn
-- TensorFlow/Keras
+- TensorFlow / Keras
+- PySpark / Spark MLlib
+- Matplotlib
 - Jupyter Notebook
+- Git y GitHub
 
-## Instalación
+---
 
-```bash
-pip install -r requirements.txt
-```
+## 🚀 Proyectos destacados
 
-Para el proyecto CNN, instala sus dependencias específicas:
+### 🏦 Modelo crediticio con Machine Learning
 
-```bash
-pip install -r cnn-reconocimiento-digitos/requirements.txt
-```
+Modelo de clasificación para predecir la aprobación de créditos mediante preprocesamiento de datos, pipelines, regresión logística y validación cruzada con Scikit-learn.
 
-Los datasets necesarios para los proyectos PCA y videojuegos están incluidos junto con su documentación.
+➡️ [Ver proyecto](https://github.com/oreon36/modelo-crediticio-machine-learning)
+
+### 🧠 Reconocimiento de dígitos con CNN
+
+Proyecto de Deep Learning y Computer Vision utilizando TensorFlow/Keras para clasificar imágenes de dígitos manuscritos del 0 al 9.
+
+➡️ [Ver proyecto](https://github.com/oreon36/cnn-reconocimiento-digitos)
+
+### 📊 PCA aplicado a Ames Housing
+
+Aplicación de Análisis de Componentes Principales para reducción de dimensionalidad mediante imputación y estandarización.
+
+➡️ [Ver proyecto](https://github.com/oreon36/pca-ames-housing)
+
+### 🎮 Análisis exploratorio de videojuegos
+
+Análisis descriptivo de ventas de videojuegos considerando regiones, plataformas, géneros, valores faltantes y detección de valores atípicos.
+
+➡️ [Ver proyecto](https://github.com/oreon36/analisis-exploratorio-videojuegos)
+
+---
+
+## 📚 Actualmente aprendiendo
+
+- Machine Learning
+- Deep Learning
+- Apache Spark y Big Data
+- Automatización
+- Inteligencia Artificial aplicada al análisis de datos
+
+---
+
+## 🤝 Conectemos
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/hector87)
+- 💻 [GitHub](https://github.com/oreon36)
+
+---
+
+Este portafolio reúne proyectos desarrollados durante mi formación en Data Science y continuará actualizándose a medida que incorpore nuevas herramientas, modelos y casos de uso.
