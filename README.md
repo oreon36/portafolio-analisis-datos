@@ -16,12 +16,21 @@ Análisis descriptivo de ventas por región, plataforma y género, incluyendo va
 
 [Ver proyecto](analisis-exploratorio-videojuegos/README.md)
 
+### 3. Reconocimiento de dígitos manuscritos con CNN
+
+Proyecto de Deep Learning y Computer Vision con TensorFlow/Keras para clasificar dígitos del 0 al 9.
+
+[Ver proyecto](cnn-reconocimiento-digitos/README.md)
+
+Actualmente incluye la documentación y las dependencias; el notebook y el dataset están pendientes de incorporación.
+
 ## Tecnologías
 
 - Python
 - Pandas y NumPy
 - Matplotlib
 - Scikit-learn
+- TensorFlow/Keras
 - Jupyter Notebook
 
 ## Instalación
@@ -30,4 +39,10 @@ Análisis descriptivo de ventas por región, plataforma y género, incluyendo va
 pip install -r requirements.txt
 ```
 
-Los datasets necesarios para ambos proyectos están incluidos junto con su documentación.
+Para el proyecto CNN, instala sus dependencias específicas:
+
+```bash
+pip install -r cnn-reconocimiento-digitos/requirements.txt
+```
+
+Los datasets necesarios para los proyectos PCA y videojuegos están incluidos junto con su documentación.
