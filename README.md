@@ -8,21 +8,27 @@ Repositorio de proyectos desarrollados por **Héctor López** durante su formaci
 
 Reducción de dimensionalidad mediante imputación, estandarización y Análisis de Componentes Principales.
 
-[Ver proyecto](pca-ames-housing/README.md)
+[Ver proyecto](https://github.com/oreon36/pca-ames-housing)
 
 ### 2. Análisis exploratorio de videojuegos
 
 Análisis descriptivo de ventas por región, plataforma y género, incluyendo valores faltantes, distribuciones y detección de valores atípicos.
 
-[Ver proyecto](analisis-exploratorio-videojuegos/README.md)
+[Ver proyecto](https://github.com/oreon36/analisis-exploratorio-videojuegos)
 
 ### 3. Reconocimiento de dígitos manuscritos con CNN
 
 Proyecto de Deep Learning y Computer Vision con TensorFlow/Keras para clasificar dígitos del 0 al 9.
 
-[Ver proyecto](cnn-reconocimiento-digitos/README.md)
+[Ver proyecto](https://github.com/oreon36/cnn-reconocimiento-digitos)
 
 Incluye la documentación, las dependencias y el [notebook de reconocimiento de dígitos](cnn-reconocimiento-digitos/notebooks/reconocimiento_digitos_cnn.ipynb). Incluye también el [dataset de dígitos](cnn-reconocimiento-digitos/data/digitos_mnist_simple.xlsx).
+
+### 4. Modelo crediticio con Machine Learning
+
+Clasificación para aprobación de créditos con Python, Scikit-learn, Pipeline y validación cruzada.
+
+[Ver proyecto](https://github.com/oreon36/modelo-crediticio-machine-learning)
 
 ## Tecnologías
 
